@@ -1,0 +1,4 @@
+CASE 1: html > body > table @ width = "1024";
+CASE 2: * table @ width = "1024";
+CASE 3: * div > table @ width = "1024";
+CASE 4: html > body > table;
