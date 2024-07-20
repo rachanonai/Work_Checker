@@ -1,3 +1,4 @@
 .env
 sequence.json
 .vscode
+__pycache__
